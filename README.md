@@ -43,7 +43,7 @@ Our hackathon project, Mosaico Brasileiro, is part product development, part com
 - And there is 1 NFT contract we wrote, that has 16 individual NFTs for each of the pieces (https://github.com/neodaoist/mosaic/blob/main/hardhat/contracts/mosaic.sol)
 - If the auction is won, the owner can "melt" the single NFT into the 16 individual NFTs, by sending it to the custom contract NFT (see the onERC721Received() callback, this is the only way to call mint() function)
 - Likewise, if all 16 melted NFTs are owned by the same account, they can "melt" the NFTs back into the single NFT by calling the melt() function
-- We think this can be a powerful evolution of the burn mechanic and helps support collaborative NFT projects like Mosaico Brasileiro
+- We think this will be a powerful evolution of the burn mechanic and will help support collaborative NFT projects like Mosaico Brasileiro
 
 ### 📅 Key dates
 
