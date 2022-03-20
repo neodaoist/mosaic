@@ -1,19 +1,15 @@
 {
   "name": "Artist - Florecendo",
   "description": "JPEG\n4787x7165\n\n— Piece Description —\npt:\nXYZ\n\nen:\nABC\n\n— Artist Description —\npt:\nXYZ\n\nen:\nABC\n\nMosaico Brasileiro\nCuration // Connection\n",
-  "image": "https://bafybeielqjjbvvcyhvzbcuzdgukbcpeyjkqtulcovc6zya4dx2uy6boyzm.ipfs.nftstorage.link/4.jpeg",
+  "image": "https://bafybeigdsiosa37wryovy5gsstlrhtt3bpldzhmb25tpivihf37sh3ysey.ipfs.nftstorage.link/4.jpeg",
   "attributes": [
     {
-      "trait_type": "Artist Name",
+      "trait_type": "Creator",
       "value": ""
     },
     {
-      "trait_type": "Piece Medium",
+      "trait_type": "Medium",
       "value": "image"
-    },
-    {
-      "trait_type": "Piece Number",
-      "value": "4"
     },
     {
       "trait_type": "Collection Name",

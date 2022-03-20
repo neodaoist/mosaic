@@ -1,19 +1,15 @@
 {
   "name": "Bernardo Dartagnan - Guardiã",
   "description": "JPEG\n4921×6398\n\nToda luz está sempre ali, disponível, Dentro de nós, em nós Guardada de nós Pelo nosso vício de continuarmos a ser. Os mesmos nós. Que sempre demos em nós",
-  "image": "https://bafybeielqjjbvvcyhvzbcuzdgukbcpeyjkqtulcovc6zya4dx2uy6boyzm.ipfs.nftstorage.link/9.jpeg",
+  "image": "https://bafybeigdsiosa37wryovy5gsstlrhtt3bpldzhmb25tpivihf37sh3ysey.ipfs.nftstorage.link/9.jpeg",
   "attributes": [
     {
-      "trait_type": "Artist Name",
+      "trait_type": "Creator",
       "value": "Bernardo Dartagnan"
     },
     {
-      "trait_type": "Piece Medium",
+      "trait_type": "Medium",
       "value": "image"
-    },
-    {
-      "trait_type": "Piece Number",
-      "value": "9"
     },
     {
       "trait_type": "Collection Name",

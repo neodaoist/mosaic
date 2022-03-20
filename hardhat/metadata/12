@@ -1,19 +1,15 @@
 {
   "name": "Skrrtey - Untitled",
   "description": "JPEG\n1405×2500\n\nNessa peça podemos ver um cenário calmo e tranquilo de mais um dia comum na praia! E ao fundo o nosso museu nacional queimando..... Um conceito sobre a negligência e a falta de valor pela própria cultura.",
-  "image": "https://bafybeielqjjbvvcyhvzbcuzdgukbcpeyjkqtulcovc6zya4dx2uy6boyzm.ipfs.nftstorage.link/12.jpeg",
+  "image": "https://bafybeigdsiosa37wryovy5gsstlrhtt3bpldzhmb25tpivihf37sh3ysey.ipfs.nftstorage.link/12.jpeg",
   "attributes": [
     {
-      "trait_type": "Artist Name",
+      "trait_type": "Creator",
       "value": "Skrrtey"
     },
     {
-      "trait_type": "Piece Medium",
+      "trait_type": "Medium",
       "value": "image"
-    },
-    {
-      "trait_type": "Piece Number",
-      "value": "12"
     },
     {
       "trait_type": "Collection Name",
