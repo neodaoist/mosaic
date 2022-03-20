@@ -18,19 +18,20 @@ Our hackathon project, Mosaico Brasileiro, is part product development, part com
 ### 🎨 Quick hits
 
 1) We curated pieces from 16 Brazilian creators for an immersive mixed reality NFT exhibit
-2) We built a new NFT mechanic — 🔥 melting — to allow a group of artists to auction their work as one collectible and share royalties
-3) We built a metaverse gallery to showcase the artwork in an immersive VR environment
-4) This weekend, we are auctioning the selected works during ETH Rio 2022 conference
-5) We launched a DAO with the purpose to raise 5–10 ETH and win the auction of the Mosaico Brasileiro collection
-6) This afternoon, we are hosting a VR Q&A session with people interested in the DAO, livestreamed out of the metaverse with Livepeer
-7) We onboarded over half of the 16 Brazilian artists to web3, helping them setup their Metamask wallets
-8) We collaborated with four Brazilian foundations to further social and ecological causes with proceeds from the auction (royalties defined with the EIP2981 spec)
-9) We deployed a 🍰 slicer smart contract with Slice.so so all primary and secondary sales go to the artists, Brazilian charitable foundations, and conference attendees
+    - _including Felipe Guga, painter of the murals at Fabria de Startup =)_
+3) We built a new NFT mechanic — 🔥 melting — to allow a group of artists to auction their work as one collectible and share royalties
+4) We built a metaverse gallery to showcase the artwork in an immersive VR environment
+5) This weekend, we are auctioning the selected works during ETH Rio 2022 conference
+6) We launched a DAO with the purpose to raise 5–10 ETH and win the auction of the Mosaico Brasileiro collection
+7) This afternoon, we are hosting a VR Q&A session with people interested in the DAO, livestreamed out of the metaverse with Livepeer
+8) We onboarded over half of the 16 Brazilian artists to web3, helping them setup their Metamask wallets
+9) We collaborated with four Brazilian foundations to further social and ecological causes with proceeds from the auction (royalties defined with the EIP2981 spec)
+10) We deployed a 🍰 slicer smart contract with Slice.so so all primary and secondary sales go to the artists, Brazilian charitable foundations, and conference attendees
 
 ### 🙌 Community ownership
 - 70% to the Brazilian artists
 - 20% to the charitable foundations
-  - Impacto (who will further share with numerous foundations)
+  - Impacto (who will further share with numerous foundations) — 
   - A Rocinha resiste — 
   - Prototipando a quebrada — 
   - Refauna — 
