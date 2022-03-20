@@ -1,0 +1,27 @@
+{
+  "name": "Leonidas Valdez - Burn, baby!",
+  "description": "JPEG\n5120×3072\n\nBurn, baby! is a landscape created with GAN where I took Francisco Goya's La Nevada as a reference. My main goal was to use bright and warm colors to create a landscape that, even though it talks about fire, looks cold.",
+  "image": "https://bafybeielqjjbvvcyhvzbcuzdgukbcpeyjkqtulcovc6zya4dx2uy6boyzm.ipfs.nftstorage.link/11.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Artist Name",
+      "value": "Leonidas Valdez"
+    },
+    {
+      "trait_type": "Piece Medium",
+      "value": "image"
+    },
+    {
+      "trait_type": "Piece Number",
+      "value": "11"
+    },
+    {
+      "trait_type": "Collection Name",
+      "value": "Mosaico Brasileiro"
+    },
+    {
+      "trait_type": "Collection Year",
+      "value": "2022"
+    }
+  ]
+}

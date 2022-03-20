@@ -1,0 +1,27 @@
+{
+  "name": "LOB - Gueixa",
+  "description": "JPEG\n3200×4984\n\nfdf",
+  "image": "https://bafybeielqjjbvvcyhvzbcuzdgukbcpeyjkqtulcovc6zya4dx2uy6boyzm.ipfs.nftstorage.link/16.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Artist Name",
+      "value": "LOB"
+    },
+    {
+      "trait_type": "Piece Medium",
+      "value": "image"
+    },
+    {
+      "trait_type": "Piece Number",
+      "value": "16"
+    },
+    {
+      "trait_type": "Collection Name",
+      "value": "Mosaico Brasileiro"
+    },
+    {
+      "trait_type": "Collection Year",
+      "value": "2022"
+    }
+  ]
+}
