@@ -2,6 +2,7 @@
 pragma solidity ^0.8.13;
 
 import "./ERC721A_M.sol";
+import "./meltable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol";
 import "@openzeppelin/contracts/interfaces/IERC721.sol";
@@ -18,8 +19,8 @@ import "@openzeppelin/contracts/interfaces/IERC721.sol";
 //                                                                                                 //
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
-contract MosaicoBrasileiro is ERC721A_M, IERC721Receiver, Ownable {
-
+contract MosaicoBrasileiro is ERC721A_M, IERC721Receiver, Ownable, Meltable {
+  
   /// ================================
   /// ============ Errors ============
   /// ================================
